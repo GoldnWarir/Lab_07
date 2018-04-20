@@ -1,0 +1,5 @@
+POTENTIAL PROBLEMS:
+
+-isEmpty() could always return true
+-addBack(int) could add it to the front instead of the back
+-removeFront() and removeBack() may not remove anything at all
